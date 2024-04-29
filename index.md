@@ -14,3 +14,9 @@ Here's some code
 message = input("Enter a message: ")
 print(message)
 ```
+
+Tasks:
+
+- [ ] feed the dinosaur
+- [ ] paint the grass
+- [ ] eat a bowl of nails without any milk
